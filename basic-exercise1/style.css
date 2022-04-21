@@ -1,0 +1,22 @@
+.container{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0;
+}    
+img{
+    height: 420px;
+    width: fit-content;
+    border: 1px solid black;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+}
+
+.contactus h1 p{
+    margin: 100px;
+}
+  
+  
